@@ -593,6 +593,28 @@
     }
   }
 
+  .container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  .form-group input, .form-control  {
+    background-color: #eae5eb;
+    color: #52045c;
+    border-color: #52045c;
+    margin-bottom: 10px;
+  }
+  .form-group label {
+    margin-top: 10px;
+  }
+
+  .btn-primary {
+    background-color: #7410aa;
+    border-color: #7410aa;
+  }
+  .btn-primary:hover {
+    background-color: #52045c;
+    border-color: #52045c;
+  }
  
 
 /*--------------------------------------------------------------
