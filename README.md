@@ -26,6 +26,11 @@ O projeto Rehab tem o foco na reintegração de pessoas reabilitadas na sociedad
 
 <div align="center">  <a href="https://github.com/Squa17/Projeto-Rehab/assets/141971382/3d183abf-0b80-473b-8857-e9846648d7d7"><img src="https://i.ibb.co/HNPy0fs/sua-imagem.jpg" alt="Logo do projeto" width="120"></a></div>
 
+# QiQi
+
+A QiQi é o nosso ChatBot, que irá auxliar os usuários do site a tirarem dúvidas, saber mais sobre o projeto, ou até mesmo entrar em contato conosco,
+
+(Adicionar imagem e gif)
 
 
 
@@ -46,3 +51,5 @@ Do nordeste do Brasil, até o sul, nosso grupo traz grandes variedades de cultur
 • **Nicholas Dantas**(São Paulo)
 <br>
 • **Polliana Silva** (São Paulo)
+
+
